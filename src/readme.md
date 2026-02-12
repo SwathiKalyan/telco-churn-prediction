@@ -117,3 +117,13 @@ Applied SHAP for interpretable ML
 Integrated MLflow for experiment tracking
 
 Designed clean, package-based execution structure
+
+## Dataset
+
+This project uses the IBM Telco Customer Churn dataset available on Kaggle:
+
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+The dataset is not included in this repository. Please download it from Kaggle and place it under:
+
+data/raw/CustomerChurn.xlsx
